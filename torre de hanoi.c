@@ -1,5 +1,10 @@
 #include <stdio.h>
-
+/**
+** Thiago André Cardoso Silva
+** Aulas particulares de programação (para iniciantes)
+** Instagram: @programador_who
+** Cel: (085) 999273805
+*/
 void mover_discos(int d, char origem, char destino, char auxiliar);
 
 int main(int argc, char const *argv[]) {
