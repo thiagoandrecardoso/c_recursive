@@ -1,2 +1,2 @@
 # c_recursive
-Uso de funções recursivas em C. 
+- Uso de funções recursivas em C. 
